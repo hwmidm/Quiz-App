@@ -42,13 +42,3 @@ Here are some key API routes. Use tools like Postman for testing.
 * `GET /api/questions/createQuiz`
 * `POST /api/questions/submitQuiz`
 * `GET /api/users/myQuizResults`
-
-## 🛠️ Setup & Run Locally
-
-1.  **Clone:** `git clone https://github.com/hwm1dm/Quiz-App.git && cd Quiz-App`
-2.  **Install:** `npm install`
-3.  **Config:** Create a `.env` file in the root with `PORT`, `LocalDatabase`, `JWT_SECRET`, `JWT_EXPIRE`, `JWT_COOKIE_EXPIRES_IN`, `EMAIL_HOST`, `EMAIL_PORT`, `EMAIL_USERNAME`, `EMAIL_PASSWORD`. (See full `README` for example values if needed).
-4.  **Run:** `npm start`
-5.  **Import Sample Data (Optional):** `node dev-data/import-dev-data.js --import`
-
----
