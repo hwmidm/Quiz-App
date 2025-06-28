@@ -1,0 +1,405 @@
+[
+  {
+    "question": "What is the main function of the CPU in a computer?",
+    "options": [
+      "store data",
+      "process data",
+      "display graphics",
+      "connect to the internet"
+    ],
+    "correctAnswer": "process data",
+    "category": "computer",
+    "level": "easy"
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "options": ["linux", "firefox", "python", "mysql"],
+    "correctAnswer": "firefox",
+    "category": "computer",
+    "level": "easy"
+  },
+  {
+    "question": "In which year was the first version of Windows released?",
+    "options": ["1983", "1985", "1990", "1995"],
+    "correctAnswer": "1985",
+    "category": "computer",
+    "level": "medium"
+  },
+  {
+    "question": "Which programming language is primarily used for statistical computing?",
+    "options": ["java", "c++", "r", "html"],
+    "correctAnswer": "r",
+    "category": "computer",
+    "level": "hard"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "options": ["brazil", "germany", "france", "argentina"],
+    "correctAnswer": "france",
+    "category": "sport",
+    "level": "easy"
+  },
+  {
+    "question": "Which country has won the most Olympic gold medals in history?",
+    "options": ["russia", "germany", "usa", "china"],
+    "correctAnswer": "usa",
+    "category": "sport",
+    "level": "medium"
+  },
+  {
+    "question": "Who holds the record for the most goals in a single World Cup tournament?",
+    "options": ["miroslav klose", "just fontaine", "pelé", "cristiano ronaldo"],
+    "correctAnswer": "just fontaine",
+    "category": "sport",
+    "level": "hard"
+  },
+  {
+    "question": "When did World War I begin?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "correctAnswer": "1914",
+    "category": "history",
+    "level": "easy"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "george washington",
+      "thomas jefferson",
+      "abraham lincoln",
+      "john adams"
+    ],
+    "correctAnswer": "george washington",
+    "category": "history",
+    "level": "easy"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "correctAnswer": "1989",
+    "category": "history",
+    "level": "medium"
+  },
+  {
+    "question": "Who was the famous Carthaginian general in the Second Punic War?",
+    "options": ["scipio", "hannibal", "caesar", "pompey"],
+    "correctAnswer": "hannibal",
+    "category": "history",
+    "level": "hard"
+  },
+  {
+    "question": "What is the derivative of x^2?",
+    "options": ["x", "2x", "x^2", "2"],
+    "correctAnswer": "2x",
+    "category": "math",
+    "level": "medium"
+  },
+  {
+    "question": "What is the value of π approximately?",
+    "options": ["2.14", "3.14", "4.14", "5.14"],
+    "correctAnswer": "3.14",
+    "category": "math",
+    "level": "easy"
+  },
+  {
+    "question": "If angle A in a triangle is 90 degrees, what type of triangle is it?",
+    "options": ["acute", "obtuse", "right", "equilateral"],
+    "correctAnswer": "right",
+    "category": "math",
+    "level": "easy"
+  },
+  {
+    "question": "What is the value of factorial 5 (5!)?",
+    "options": ["60", "100", "120", "150"],
+    "correctAnswer": "120",
+    "category": "math",
+    "level": "medium"
+  },
+  {
+    "question": "Which hardware component stores permanent data?",
+    "options": ["ram", "cpu", "hard drive", "gpu"],
+    "correctAnswer": "hard drive",
+    "category": "computer",
+    "level": "easy"
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "options": ["apple", "microsoft", "google", "ibm"],
+    "correctAnswer": "google",
+    "category": "computer",
+    "level": "medium"
+  },
+  {
+    "question": "What is the binary representation of the number 5?",
+    "options": ["101", "110", "111", "100"],
+    "correctAnswer": "101",
+    "category": "computer",
+    "level": "hard"
+  },
+  {
+    "question": "Which country hosted the 2020 Summer Olympics?",
+    "options": ["china", "japan", "brazil", "uk"],
+    "correctAnswer": "japan",
+    "category": "sport",
+    "level": "medium"
+  },
+  {
+    "question": "What sport does Serena Williams play?",
+    "options": ["soccer", "basketball", "tennis", "golf"],
+    "correctAnswer": "tennis",
+    "category": "sport",
+    "level": "easy"
+  },
+  {
+    "question": "Who is known as 'The Greatest' in boxing?",
+    "options": [
+      "mike tyson",
+      "muhammad ali",
+      "floyd mayweather",
+      "joe frazier"
+    ],
+    "correctAnswer": "muhammad ali",
+    "category": "sport",
+    "level": "hard"
+  },
+  {
+    "question": "When did the American Civil War start?",
+    "options": ["1860", "1861", "1863", "1865"],
+    "correctAnswer": "1861",
+    "category": "history",
+    "level": "medium"
+  },
+  {
+    "question": "Who discovered America?",
+    "options": [
+      "christopher columbus",
+      "leif erikson",
+      "magellan",
+      "vasco da gama"
+    ],
+    "correctAnswer": "christopher columbus",
+    "category": "history",
+    "level": "easy"
+  },
+  {
+    "question": "Who was the last Pharaoh of Egypt?",
+    "options": ["cleopatra", "tutankhamun", "ramses ii", "akhenaten"],
+    "correctAnswer": "cleopatra",
+    "category": "history",
+    "level": "hard"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "12", "14", "16"],
+    "correctAnswer": "12",
+    "category": "math",
+    "level": "easy"
+  },
+  {
+    "question": "Solve: 2x + 3 = 7. What is x?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "2",
+    "category": "math",
+    "level": "medium"
+  },
+  {
+    "question": "What is the integral of 1/x?",
+    "options": ["x", "ln|x|", "1/x", "x^2"],
+    "correctAnswer": "ln|x|",
+    "category": "math",
+    "level": "hard"
+  },
+  {
+    "question": "Which device is used to connect a computer to the internet?",
+    "options": ["router", "scanner", "monitor", "keyboard"],
+    "correctAnswer": "router",
+    "category": "computer",
+    "level": "easy"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "hyper text markup language",
+      "high text machine language",
+      "hyperlink and text markup language",
+      "home tool markup language"
+    ],
+    "correctAnswer": "hyper text markup language",
+    "category": "computer",
+    "level": "medium"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["oxygen", "carbon dioxide", "nitrogen", "hydrogen"],
+    "correctAnswer": "carbon dioxide",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["o2", "h2o", "co2", "ho2"],
+    "correctAnswer": "h2o",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "What part of the cell contains the genetic material?",
+    "options": ["nucleus", "ribosome", "cytoplasm", "membrane"],
+    "correctAnswer": "nucleus",
+    "category": "science",
+    "level": "medium"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°c", "100°c", "110°c", "120°c"],
+    "correctAnswer": "100°c",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["earth", "mars", "venus", "jupiter"],
+    "correctAnswer": "mars",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "What is the main gas found in the Earth's atmosphere?",
+    "options": ["oxygen", "carbon dioxide", "nitrogen", "hydrogen"],
+    "correctAnswer": "nitrogen",
+    "category": "science",
+    "level": "medium"
+  },
+  {
+    "question": "What type of energy does a moving object have?",
+    "options": ["potential", "kinetic", "chemical", "thermal"],
+    "correctAnswer": "kinetic",
+    "category": "science",
+    "level": "medium"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["newton", "einstein", "galileo", "bohr"],
+    "correctAnswer": "einstein",
+    "category": "science",
+    "level": "medium"
+  },
+  {
+    "question": "Which organ is responsible for pumping blood?",
+    "options": ["brain", "liver", "heart", "lungs"],
+    "correctAnswer": "heart",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["atom", "cell", "molecule", "organ"],
+    "correctAnswer": "cell",
+    "category": "science",
+    "level": "easy"
+  },
+  {
+    "question": "What color do you get when you mix red and white?",
+    "options": ["pink", "orange", "purple", "brown"],
+    "correctAnswer": "pink",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "options": ["365", "366", "364", "367"],
+    "correctAnswer": "366",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which continent is the largest by area?",
+    "options": ["africa", "asia", "europe", "north america"],
+    "correctAnswer": "asia",
+    "category": "general",
+    "level": "medium"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": ["elephant", "lion", "tiger", "bear"],
+    "correctAnswer": "lion",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which language has the most native speakers worldwide?",
+    "options": ["english", "spanish", "chinese", "hindi"],
+    "correctAnswer": "chinese",
+    "category": "general",
+    "level": "medium"
+  },
+  {
+    "question": "What do bees produce?",
+    "options": ["milk", "honey", "wax", "silk"],
+    "correctAnswer": "honey",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["berlin", "madrid", "rome", "paris"],
+    "correctAnswer": "paris",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "options": ["north", "south", "east", "west"],
+    "correctAnswer": "east",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "options": ["venus", "earth", "mercury", "mars"],
+    "correctAnswer": "mercury",
+    "category": "general",
+    "level": "medium"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": ["elephant", "blue whale", "giraffe", "hippo"],
+    "correctAnswer": "blue whale",
+    "category": "general",
+    "level": "medium"
+  },
+  {
+    "question": "Which color is formed by mixing blue and yellow?",
+    "options": ["green", "purple", "orange", "brown"],
+    "correctAnswer": "green",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "What is the freezing point of water in celsius?",
+    "options": ["0", "10", "32", "100"],
+    "correctAnswer": "0",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which shape has four equal sides and angles?",
+    "options": ["rectangle", "square", "rhombus", "trapezoid"],
+    "correctAnswer": "square",
+    "category": "general",
+    "level": "easy"
+  },
+  {
+    "question": "Which day comes after friday?",
+    "options": ["thursday", "saturday", "sunday", "monday"],
+    "correctAnswer": "saturday",
+    "category": "general",
+    "level": "easy"
+  }
+]
