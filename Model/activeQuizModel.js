@@ -21,8 +21,8 @@ const activeQuizSchema = new mongoose.Schema({
   createdAt: {
     type: Date,
     default: Date.now,
-    // Document will expire and be deleted after 6000 seconds (100 minutes)
-    expires: 6000,
+    // Document will expire and be deleted after 600 seconds (10 minutes)
+    expires: 600,
   },
 });
 
